@@ -15,6 +15,7 @@ A global initiative website designed to raise awareness and provide actionable s
 
 ## 💻 Project Structure
 climate-change-website/
+
 ├── index.html
 
 ├── climatusazim.html
